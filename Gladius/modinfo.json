@@ -1,0 +1,14 @@
+{
+    "type": "code",
+    "modid": "gladius",
+    "name": "Gladius",
+    "authors": [
+        "Zach2039"
+    ],
+    "description": "Adds additional melee weapons; requires FSMlib.",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": "1.18.15",
+	"fsmlib": "0.1.10"
+    }
+}
