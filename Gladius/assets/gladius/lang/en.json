@@ -1,3 +1,9 @@
 {
-    "hello": "hello world!"
+    "item-gladius-tinbronze": "Tin bronze gladius",
+    "item-gladius-bismuthbronze": "Bismuth bronze gladius",
+    "item-gladius-blackbronze": "Black bronze gladius",
+    "item-gladius-iron": "Iron gladius",
+    "item-gladius-meteoriciron": "Meteoric iron gladius",
+
+    "change-weapon-stance": "Change weapon stance"
 }
